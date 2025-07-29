@@ -1,5 +1,5 @@
 
-# Tech Challenge - Predição de Custos Médicos
+# Tech Challenge - Otimização genética
 
 Este projeto foi desenvolvido como parte do Tech Challenge da FIAP, com o objetivo de aplicar os conhecimentos..
 
@@ -9,7 +9,6 @@ Este projeto foi desenvolvido como parte do Tech Challenge da FIAP, com o objeti
 
 ```
 
----
 
 ## 📊 Sobre os Dados
 
@@ -19,7 +18,6 @@ Este projeto foi desenvolvido como parte do Tech Challenge da FIAP, com o objeti
 ## ⚙️ Como Executar o Projeto
 
 
-```
 
 ---
 
