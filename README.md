@@ -7,7 +7,6 @@ Este projeto foi desenvolvido como parte do Tech Challenge da FIAP, com o objeti
 
 ## 📁 Estrutura do Projeto
 
-```
 
 
 ## 📊 Sobre os Dados
