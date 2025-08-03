@@ -1,0 +1,40 @@
+
+Relatório Final - Otimização de Carteira com Algoritmo Genético
+
+Melhores Pesos Encontrados:
+----------------------------
+PETR4.SA: 18.98%
+VALE3.SA: 13.83%
+ITUB4.SA: 15.47%
+BBDC4.SA: 15.16%
+WEGE3.SA: 16.55%
+ABEV3.SA: 20.00%
+
+Retorno Esperado da Carteira:
+------------------------------
+• Diário: 0.09%
+• Mensal: 1.95%
+• Anual: 26.09%
+
+Risco (Desvio Padrão da Carteira):
+----------------------------------
+• Diário: 1.00%
+• Mensal: 4.56%
+• Anual: 15.80%
+
+Explicações:
+------------
+• Retorno Esperado: ganho médio baseado nos retornos históricos dos ativos ponderados pelos pesos.
+• Risco: volatilidade da carteira medida pelo desvio padrão. Quanto menor, mais estável.
+
+Sobre os Pesos:
+---------------
+Atribuídos para maximizar o retorno dentro do limite de risco. A soma dos pesos é 100%.
+
+Gráfico:
+--------
+Salvo em 'images/grafico_risco_retorno_final.png'. Mostra a evolução do algoritmo.
+
+Conclusão:
+----------
+Carteira equilibrada para perfil moderado/agressivo.
