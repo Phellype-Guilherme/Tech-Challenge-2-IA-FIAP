@@ -7,7 +7,7 @@ Este projeto foi desenvolvido como parte do Tech Challenge da FIAP, com o objeti
 ## 📁 Estrutura do Projeto
 
 ```
-tech-challenge-carteira/
+Tech-Challenge-2-IA-FIAP/
 ├── images/                           # Gráficos de risco × retorno
 ├── output/                           # Relatório completo com análise da carteira ótima
 ├── main.py                           # Script principal (algoritmo + visualização com pygame)
